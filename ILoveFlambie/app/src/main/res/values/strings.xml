@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">I Love Flambie</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="textBase">Je t\'aime :) &lt;3</string>
+
+    <string name="textBtn">Cliques ici !</string>
+
+    <string-array name="adjectifs">
+        <item>belle</item>
+        <item>gentille</item>
+        <item>jolie</item>
+        <item>ravissante</item>
+        <item>gracieuse</item>
+        <item>douce</item>
+        <item>mignonne</item>
+    </string-array>
+    <string-array name="complements">
+        <item>une hirondelle</item>
+        <item>un petit nounours</item>
+        <item>un coucher de soleil</item>
+        <item>une colombe</item>
+        <item>un ange</item>
+        <item>une montagne d\'or</item>
+        <item>un arc-en-ciel</item>
+    </string-array>
+</resources>
