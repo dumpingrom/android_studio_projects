@@ -69,8 +69,8 @@ public class MainActivity extends Activity {
 
         Random r1 = new Random();
         Random r2 = new Random();
-        int i = r1.nextInt(maxi-1);
-        int j = r2.nextInt(maxj-1);
+        int i = r1.nextInt(maxi);
+        int j = r2.nextInt(maxj);
 
         String result = "Tu es " + adjectifs[i] + " comme " + complements[j];
 
